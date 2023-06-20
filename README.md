@@ -1,11 +1,11 @@
-About r-anocva
-==============
+About r-anocva-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-anocva-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=anocva
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-anocva-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides ANOCVA (ANalysis Of Cluster VAriability), a non-parametric statistical test to compare clustering structures with applications in functional magnetic resonance imaging data (fMRI). The ANOCVA allows us to compare the clustering structure of multiple groups simultaneously and also to identify features that contribute to the differential clustering.
 
