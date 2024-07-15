@@ -1,6 +1,5 @@
 {% set version = '0.1.1' %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-anocva
@@ -13,8 +12,7 @@ source:
   sha256: 39374e5849fbd2ee428bc0d4b90168c3c884b04fb06819400a331c452520cfaf
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
